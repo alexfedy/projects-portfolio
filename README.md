@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, DevOps**
 
-- 👨‍💻 All of my projects are available at [alexf.vercel.app](alexf.vercel.app)
+- 👨‍💻 All of my projects are available at [alexf.vercel.app](https://alexf.vercel.app/)
 
 - 📫 How to reach me **fedoalex20@gmail.com**
 
