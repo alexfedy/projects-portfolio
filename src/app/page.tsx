@@ -84,7 +84,7 @@ export default function Home() {
           </div>
         </div>
         <hr />
-        <div className="my-4 w-full flex items-center justify-center gap-4">
+        <div className="my-4 w-full flex items-center justify-center gap-4 flex-wrap text-center">
           <i>"An app is worth a thousand buzzwords"</i>
           <p>- Me</p>
         </div>
