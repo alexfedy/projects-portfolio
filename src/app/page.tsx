@@ -74,7 +74,12 @@ export default function Home() {
               >
                 Github
               </a>{" "}
-              to see all my projects and code.
+              to see all my projects and code, and feel free to contact at
+              &nbsp;
+              <a href="mailto:fedoalex20@gmail.com" className="text-slate-600">
+                fedoalex20@gmail.com
+              </a>
+              .
             </span>
           </div>
         </div>
