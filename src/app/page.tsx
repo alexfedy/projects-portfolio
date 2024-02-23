@@ -16,9 +16,17 @@ const data = [
     technologies: ["Astro", "React", "Tailwind"],
   },
   {
+    img: "/r.svg",
+    name: "Retrify",
+    description:
+      "Chrome Extentsion that injects a stylesheet into a website and transforms it into a retro style webpage.",
+    link: "https://github.com/alexfedy/Retrify",
+    technologies: ["Chrome", "Service Worker", "Javascript"],
+  },
+  {
     img: "/SpaceX_logo_black.svg",
     name: "SpaceX Dashboard",
-    description: "View accurate SpaceX launche and rocket information",
+    description: "View accurate SpaceX launch and rocket data",
     link: "https://space-x-dashboard-two.vercel.app/",
     technologies: ["React", "Rest API", "NextUI"],
   },
