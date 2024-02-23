@@ -19,7 +19,7 @@ const data = [
     img: "/r.svg",
     name: "Retrify",
     description:
-      "Chrome Extentsion that injects a stylesheet into a website and transforms it into a retro style webpage.",
+      "Chrome Extentsion that injects a stylesheet into a website and transforms it into a retro style webpage",
     link: "https://github.com/alexfedy/Retrify",
     technologies: ["Chrome", "Service Worker", "Javascript"],
   },
