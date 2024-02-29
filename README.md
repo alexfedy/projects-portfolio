@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Fedorov</h1>
 <h3 align="center">A software developer from the US</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexfedy" alt="alexfedy" /></a> </p>
-
-- 🌱 I’m currently learning **Golang, DevOps**
+- 🌱 I’m currently learning **Golang, Software Architecture**
 
 - 👨‍💻 All of my projects are available at [alexf.vercel.app](https://alexf.vercel.app/)
 

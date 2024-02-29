@@ -9,7 +9,15 @@ const data = [
     technologies: ["Golang", "React", "Vite", "Wails"],
   },
   {
-    img: "/avatar_cyan.svg",
+    img: "/i.svg",
+    name: "Image Editor & Compressor",
+    description:
+      "Golang Web Server that edits and compresses an image in desired format",
+    link: "https://github.com/alexfedy/Image-Compressor-Editor",
+    technologies: ["Golang", "HTML"],
+  },
+  {
+    img: "/avtc.svg",
     name: "Avatar Gen",
     description: "Generate custom avatars and profile pictures",
     link: "https://random-avatar-generator-pi.vercel.app/",
@@ -32,7 +40,7 @@ const data = [
   },
   {
     img: "/python-3.svg",
-    name: "GeoRoute Plotter",
+    name: "Maps Web Scraper",
     description:
       "Python-based web scraping tool that extracts data from google maps urls and generates efficient route plot",
     link: "https://github.com/alexfedy/Google-Maps-Distance-Scraper",
